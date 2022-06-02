@@ -1,0 +1,4 @@
+﻿  TrabalhoEstruturaTruco.cpp
+C:\Users\127793\source\repos\TrabalhoEstruturaTruco\TrabalhoEstruturaTruco\TrabalhoEstruturaTruco.cpp(67,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\127793\source\repos\TrabalhoEstruturaTruco\TrabalhoEstruturaTruco\TrabalhoEstruturaTruco.cpp(256,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  TrabalhoEstruturaTruco.vcxproj -> C:\Users\127793\source\repos\TrabalhoEstruturaTruco\Debug\TrabalhoEstruturaTruco.exe

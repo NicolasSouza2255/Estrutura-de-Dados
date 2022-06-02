@@ -1,0 +1,69 @@
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 6 de Paus
+O jogador: Nicolas jogou: 3 de Espadas
+O jogador: Fulano jogou: 3 de Copas
+O jogador: Ciclano jogou: 3 de Moles
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 5 de Copas
+O jogador: Nicolas jogou: 1 de Moles
+O jogador: Fulano jogou: 6 de Moles
+O jogador: Ciclano jogou: 11 de Copas
+O jogador : Nicolas jogou a carta mais alta
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 2 de Copas
+O jogador: Nicolas jogou: 11 de Moles
+O jogador: Fulano jogou: 13 de Paus
+O jogador: Ciclano jogou: 12 de Paus
+O jogador : Erick jogou a carta mais alta
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 1 de Paus
+O jogador: Nicolas jogou: 11 de Moles
+O jogador: Fulano jogou: 7 de Copas
+O jogador: Ciclano jogou: 1 de Copas
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 5 de Copas
+O jogador: Nicolas jogou: 13 de Copas
+O jogador: Fulano jogou: 7 de Espadas
+O jogador: Ciclano jogou: 7 de Moles
+O jogador : Nicolas jogou a carta mais alta
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 3 de Moles
+O jogador: Nicolas jogou: 12 de Moles
+O jogador: Fulano jogou: 12 de Espadas
+O jogador: Ciclano jogou: 6 de Copas
+O jogador : Erick jogou a carta mais alta
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 1 de Paus
+O jogador: Nicolas jogou: 11 de Moles
+O jogador: Fulano jogou: 7 de Copas
+O jogador: Ciclano jogou: 1 de Copas
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 5 de Copas
+O jogador: Nicolas jogou: 13 de Copas
+O jogador: Fulano jogou: 7 de Espadas
+O jogador: Ciclano jogou: 7 de Moles
+O jogador : Nicolas jogou a carta mais alta
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 3 de Moles
+O jogador: Nicolas jogou: 12 de Moles
+O jogador: Fulano jogou: 12 de Espadas
+O jogador: Ciclano jogou: 6 de Copas
+O jogador : Erick jogou a carta mais alta
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 1 de Copas
+O jogador: Nicolas jogou: 4 de Espadas
+O jogador: Fulano jogou: 7 de Paus
+O jogador: Ciclano jogou: 11 de Moles
+O jogador : Erick jogou a carta mais alta
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 12 de Espadas
+O jogador: Nicolas jogou: 1 de Moles
+O jogador: Fulano jogou: 13 de Moles
+O jogador: Ciclano jogou: 5 de Paus
+O jogador : Nicolas jogou a carta mais alta
+=============================================Cartas Jogadas ==========================================================
+O jogador: Erick jogou: 1 de Paus
+O jogador: Nicolas jogou: 5 de Copas
+O jogador: Fulano jogou: 12 de Paus
+O jogador: Ciclano jogou: 13 de Paus
+O jogador : Erick jogou a carta mais alta
