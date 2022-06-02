@@ -1,0 +1,6 @@
+﻿  TabelasHashTrabalho.cpp
+C:\Users\121113\source\repos\TabelasHashTrabalho\TabelasHashTrabalho\TabelasHashTrabalho.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\121113\source\repos\TabelasHashTrabalho\TabelasHashTrabalho\TabelasHashTrabalho.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\121113\source\repos\TabelasHashTrabalho\TabelasHashTrabalho\TabelasHashTrabalho.cpp(155,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\121113\source\repos\TabelasHashTrabalho\TabelasHashTrabalho\TabelasHashTrabalho.cpp(311,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TabelasHashTrabalho.vcxproj -> C:\Users\121113\source\repos\TabelasHashTrabalho\Debug\TabelasHashTrabalho.exe
